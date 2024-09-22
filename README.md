@@ -32,6 +32,9 @@ git clone (https://github.com/xitmakes/scope.sh.git)
 
 ```
 
+##Demo 
+![Demo](usage.mp4)
+
 ## Usage
 
 Run the script by passing the HackerOne team handle as a parameter. 
