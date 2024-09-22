@@ -28,8 +28,8 @@ sudo apt-get install curl grep awk tee
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/scope-fetcher.git
-cd scope-fetcher
+git clone (https://github.com/xitmakes/scope.sh.git)
+
 ```
 
 ## Usage
