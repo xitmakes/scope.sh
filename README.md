@@ -28,7 +28,7 @@ sudo apt-get install curl grep awk tee
 Clone the repository:
 
 ```bash
-git clone (https://github.com/xitmakes/scope.sh.git)
+git clone https://github.com/xitmakes/scope.sh.git
 
 ```
 
@@ -38,6 +38,13 @@ git clone (https://github.com/xitmakes/scope.sh.git)
 ## Usage
 
 Run the script by passing the HackerOne team handle as a parameter. 
+
+Give permission:
+
+```bash
+chmod +x scope.sh
+
+```
 
 ```bash
 ./scope.sh <team_handle>
