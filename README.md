@@ -1,5 +1,4 @@
 
-
 ---
 
 # Scope Fetching Tool
@@ -32,8 +31,8 @@ git clone https://github.com/xitmakes/scope.sh.git
 
 ```
 
-##Demo 
-![Demo](usage.mp4)
+## Demo 
+![Demo](./usage.gif)
 
 ## Usage
 
